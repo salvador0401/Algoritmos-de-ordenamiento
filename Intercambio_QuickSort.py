@@ -1,3 +1,11 @@
+##________  ___  ___  ________  ___      ___ ________     
+##|\   ____\|\  \|\  \|\   __  \|\  \    /  /|\   __  \    
+##\ \  \___|\ \  \\\  \ \  \|\  \ \  \  /  / | \  \|\  \   
+## \ \  \    \ \   __  \ \   __  \ \  \/  / / \ \   __  \  
+##  \ \  \____\ \  \ \  \ \  \ \  \ \    / /   \ \  \ \  \ 
+##   \ \_______\ \__\ \__\ \__\ \__\ \__/ /     \ \__\ \__\
+##    \|_______|\|__|\|__|\|__|\|__|\|__|/       \|__|\|__|
+##21310195 Meza Morales Salvador Emmanuel
 import os  # Importa el módulo os para interactuar con el sistema de archivos
 import random  # Importa el módulo random para desordenar la lista
 
