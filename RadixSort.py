@@ -1,3 +1,11 @@
+##________  ___  ___  ________  ___      ___ ________     
+##|\   ____\|\  \|\  \|\   __  \|\  \    /  /|\   __  \    
+##\ \  \___|\ \  \\\  \ \  \|\  \ \  \  /  / | \  \|\  \   
+## \ \  \    \ \   __  \ \   __  \ \  \/  / / \ \   __  \  
+##  \ \  \____\ \  \ \  \ \  \ \  \ \    / /   \ \  \ \  \ 
+##   \ \_______\ \__\ \__\ \__\ \__\ \__/ /     \ \__\ \__\
+##    \|_______|\|__|\|__|\|__|\|__|\|__|/       \|__|\|__|
+##21310195 Meza Morales Salvador Emmanuel
 def counting_sort(arr, exp):
     """Realiza una ordenación por conteo en función del dígito representado por exp."""
     n = len(arr)  # Longitud del arreglo
