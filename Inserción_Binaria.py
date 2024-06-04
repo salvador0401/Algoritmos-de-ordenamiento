@@ -1,3 +1,11 @@
+##________  ___  ___  ________  ___      ___ ________     
+##|\   ____\|\  \|\  \|\   __  \|\  \    /  /|\   __  \    
+##\ \  \___|\ \  \\\  \ \  \|\  \ \  \  /  / | \  \|\  \   
+## \ \  \    \ \   __  \ \   __  \ \  \/  / / \ \   __  \  
+##  \ \  \____\ \  \ \  \ \  \ \  \ \    / /   \ \  \ \  \ 
+##   \ \_______\ \__\ \__\ \__\ \__\ \__/ /     \ \__\ \__\
+##    \|_______|\|__|\|__|\|__|\|__|\|__|/       \|__|\|__|
+##21310195 Meza Morales Salvador Emmanuel
 def binary_search(arr, item, low, high):
     """Realiza una búsqueda binaria para encontrar la posición donde insertar el item."""
     while low <= high:  # Mientras el índice bajo sea menor o igual al índice alto
