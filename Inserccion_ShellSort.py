@@ -1,3 +1,11 @@
+##________  ___  ___  ________  ___      ___ ________     
+##|\   ____\|\  \|\  \|\   __  \|\  \    /  /|\   __  \    
+##\ \  \___|\ \  \\\  \ \  \|\  \ \  \  /  / | \  \|\  \   
+## \ \  \    \ \   __  \ \   __  \ \  \/  / / \ \   __  \  
+##  \ \  \____\ \  \ \  \ \  \ \  \ \    / /   \ \  \ \  \ 
+##   \ \_______\ \__\ \__\ \__\ \__\ \__/ /     \ \__\ \__\
+##    \|_______|\|__|\|__|\|__|\|__|\|__|/       \|__|\|__|
+##21310195 Meza Morales Salvador Emmanuel
 import random  # Importa el módulo random para generar números aleatorios (no usado en este ejemplo específico)
 
 # Lista de tareas con sus duraciones en minutos
