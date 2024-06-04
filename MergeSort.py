@@ -1,3 +1,11 @@
+##________  ___  ___  ________  ___      ___ ________     
+##|\   ____\|\  \|\  \|\   __  \|\  \    /  /|\   __  \    
+##\ \  \___|\ \  \\\  \ \  \|\  \ \  \  /  / | \  \|\  \   
+## \ \  \    \ \   __  \ \   __  \ \  \/  / / \ \   __  \  
+##  \ \  \____\ \  \ \  \ \  \ \  \ \    / /   \ \  \ \  \ 
+##   \ \_______\ \__\ \__\ \__\ \__\ \__/ /     \ \__\ \__\
+##    \|_______|\|__|\|__|\|__|\|__|\|__|/       \|__|\|__|
+##21310195 Meza Morales Salvador Emmanuel
 def merge_sort(products):
     """Ordena una lista de productos por precio utilizando Merge Sort."""
     if len(products) <= 1:  # Si la lista tiene un solo elemento o está vacía, ya está ordenada
