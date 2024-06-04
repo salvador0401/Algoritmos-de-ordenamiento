@@ -1,5 +1,4 @@
-  # Algoritmos-de-ordenamiento
-Algoritmos de Ordenamiento Internos
+  # Algoritmos de Ordenamiento Internos
   1.	Insertion Sort:
     •	Promedio: O(n^2)
     •	Mejor Caso: O(n) (cuando la lista ya está ordenada)
